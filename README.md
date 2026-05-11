@@ -14,7 +14,7 @@ Also You can find the code for all the algorithms in 'src/js/GraphAlgos.js' and 
 
 
 #### Find the live application here:
- ######  [https://minakhamesi.github.io/Pathfinding-Visualizer/](https://minakhamesi.github.io/Pathfinding-Visualizer/)
+ ######  [https://pathfinding-visualiser1.onrender.com](https://pathfinding-visualiser1.onrender.com)
 
 ###### Five pathfinding algorithm used in this application are:
 *   Breadth-first-search
