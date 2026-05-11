@@ -34,7 +34,7 @@ Also You can find the code for all the algorithms in 'src/js/GraphAlgos.js' and 
 ![](mobile.gif)
 
 
-
+GitHub Actions CI/CD configured
 
 
 
